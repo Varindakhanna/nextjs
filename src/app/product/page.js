@@ -43,7 +43,7 @@ export default async function Product() {
 
        <div>
          <h3>{item.title}</h3>
-         <Price price={item.price}/>
+         <Price price={item.price }/>
        </div>
        
          
